@@ -228,8 +228,8 @@ body * {
 /* Posterët e lineup-it dhe sponsorëve */
 .lineup-poster {
   flex: 1 1 0;
-  width: 200px;
-  max-width: 200px;
+  width: 260px;
+  max-width: 260px;
   flex-shrink: 0;
 }
 
@@ -249,8 +249,8 @@ body * {
 
 @media (min-width: 640px) {
   .lineup-poster {
-    width: 220px;
-    max-width: 220px;
+    width: 300px;
+    max-width: 300px;
   }
 
   .sponsor-poster {
@@ -262,7 +262,6 @@ body * {
     gap: 1rem;
   }
 }
-
 .signature-text {
   font-family: "Great Vibes", "Segoe Script", cursive;
   font-size: 1.25rem;
