@@ -112,6 +112,18 @@ export type Sponsor = {
 
 export const sponsors2026: Sponsor[] = [
   {
+    image: "/assets/sponsor-vatan.png",
+    alt: "Birra Vatan — Sponsor Ekskluziv",
+    name: "Birra Vatan",
+  },
+  {
+    image: "/assets/sponsor-kep.png",
+    alt: "KEP — Sponsor Tradicionale",
+    name: "KEP",
+  },
+];
+export const sponsors2026: Sponsor[] = [
+  {
     image: "/assets/sponsor-kep.png",
     alt: "KEP — Sponsor Tradicionale",
     name: "KEP",
